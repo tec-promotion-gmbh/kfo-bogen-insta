@@ -16,6 +16,7 @@
     --bgColor: #eeeeee;
     --accentColor: #0E72B9;
     --font: 'Open Sans', sans-serif;
+    --font-size: 18px;
 }
 
 body{
@@ -63,7 +64,9 @@ h1{
 
 #description{
     text-align: center;
-    font-family: var(--font)
+    font-family: var(--font);
+    font-size: var(--font-size);
+    font-weight: bold;
 }
 
 #social-media{
