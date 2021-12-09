@@ -91,3 +91,10 @@ h1{
     background-color: #3b6978;
     color: #ffffff;
 }
+
+.link-imprint {
+    color: var(--accentColor);
+    font-family: var(--font);
+    text-align: left;
+    display: block;
+}
