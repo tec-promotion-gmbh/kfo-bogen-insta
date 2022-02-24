@@ -111,5 +111,5 @@ h1{
     display: block;
 }
 .link.scanday {
-    color: var(--accentColorScanday);
+    background-color: var(--accentColorScanday);
 }
