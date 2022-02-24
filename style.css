@@ -27,6 +27,7 @@
 :root {
     --bgColor: #eeeeee;
     --accentColor: #0E72B9;
+    --accentColorScanday: #395c8c;
     --font: 'Open Sans', sans-serif;
     --font-size: 18px;
 }
@@ -108,4 +109,7 @@ h1{
     font-family: var(--font);
     text-align: left;
     display: block;
+}
+.link.scanday {
+    color: var(--accentColorScanday);
 }
